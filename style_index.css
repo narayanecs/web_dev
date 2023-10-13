@@ -15,8 +15,8 @@ footer {
 
 .footer_img {
     border-radius: 50%;
-    width: 4%;
-    padding: 2% 3% 3% 2%;
+    width: 5%;
+    padding: 3% 2% 2% 3%;
 }
 
 #head_nav {
@@ -57,7 +57,7 @@ h1#heading{
     color: aqua;
     font-size: 252%;
     float: right;
-    text-decoration: underline 3% darkorange double;
+    text-decoration: underline 3% darkorange dotted;
 }
 
 article#self_int{
