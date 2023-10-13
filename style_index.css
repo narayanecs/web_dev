@@ -1,0 +1,100 @@
+header#header {
+     background-color: transparent;
+     text-align: center;
+}
+
+body#main_page {
+    background-image: url('/IMG_20230902_215943.jpg');
+    background-size: cover;
+}
+
+footer {
+    background-color: #5df4;
+    text-align: center;
+}
+
+.footer_img {
+    border-radius: 50%;
+    width: 4%;
+    padding: 2% 3% 3% 2%;
+}
+
+#head_nav {
+    word-spacing: 45px;
+    text-align: center;
+    font-size: 14px;
+    background-color: transparent;
+}
+
+pre#head_nav * {
+    background-color: lightgoldenrodyellow;
+    padding: 3px 3px 3px 3px;
+    text-decoration: none;
+    font-family: serif;
+    background-color:burlywood;
+    font-style: italic;
+    font-size: 15px;
+    border-radius: 9px;
+}
+
+div#header_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+pre#head_nav *:hover{
+    background-color: lightgreen;
+}
+
+span.underline{
+    text-decoration: underline;
+}
+
+h1#heading{
+    text-transform: uppercase;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aqua;
+    font-size: 252%;
+    float: right;
+    text-decoration: underline 3% darkorange double;
+}
+
+article#self_int{
+    font-family: monospace;
+    font-size: 117%;
+    color: burlywood;
+}
+
+section#int{
+    text-align: center;
+}
+
+span#hello{
+      font-size: 69px;
+      color:blueviolet;   
+}
+
+sub#name{
+    color:rgba(31, 185, 206, 0.904);
+    font-size: 117%;
+}
+
+h2#footer_head{
+    color:brown;
+    font-size: 120%;
+}
+
+img#head_logo{
+    width: 7%;
+    border-radius: 45%;
+    float: left;
+}
+
+.inline_block{
+    display: inline-block;
+}
+
+span#span_smile{
+    color: aqua;
+}
