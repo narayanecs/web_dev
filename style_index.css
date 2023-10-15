@@ -4,7 +4,7 @@ header#header {
 }
 
 body#main_page {
-    background-image: url('/IMG_20230902_215943.jpg');
+    background-image: url('IMG_20230902_215943.jpg');
     background-size: cover;
 }
 
